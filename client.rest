@@ -1,0 +1,8 @@
+
+###
+GET http://localhost:3000/users/2/comments?postId=5?&api-key=perscholas
+# Content-Type:  application/json
+
+#     {
+#         "comment" : "This is an updated Comment!!!  Well it has been a long time indeed"
+#     }
